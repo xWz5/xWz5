@@ -23,8 +23,8 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-I'm a passionate Front-End Developer focused on building clean, modern, and user-friendly interfaces.
-Currently, I specialize in React and UI/UX design, and I'm working toward becoming a Full Stack Developer.
+I'm a passionate Front-End Developer focused on building clean, modern, and user-friendly interfaces
+Currently, I specialize in React and UI/UX design, and I'm working toward becoming a Full Stack Developer
 I enjoy turning ideas into real projects and constantly improving my problem-solving and development skills.
 </p>
 
