@@ -32,13 +32,22 @@
 
  <hr/>
 
+<h3 align="center">My front-end Skills</h3>
+<br/>
+<hr/>
 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma" />
+</div>
 
+<h3 align="center">My front-end Skills</h3>
 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,mysql,springboot" /><br>
+</div>
 
-
-
-
+<br/>
+<hr/>
 
 
 
