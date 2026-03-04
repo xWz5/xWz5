@@ -4,8 +4,7 @@
 
 <h3 align="center">Passionate Front-End Developer from Saudi Arabia 🇸🇦</h3>
 
-<br/>
-
+---
 <div align="center">
  
  🔭 I’m currently working on <b>Personal & Secret Projects</b>
@@ -32,15 +31,13 @@ I enjoy turning ideas into real projects and constantly improving my problem-sol
 
 <h2 align="center">🚀 My Skills</h2>
 
-<br/>
-
+---
 <h3 align="center">🎨 Front-End</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma" />
 </div>
 
-<br/>
-
+---
 <h3 align="center">⚙️ Back-End</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
