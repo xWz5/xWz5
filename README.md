@@ -31,7 +31,6 @@
 </div>
 
  <br/>
- <hr/>
 
 <h3 align="center">My front-end Skills</h3>
 <br/>
@@ -47,7 +46,6 @@
 </div>
 
 <br/>
-<hr/>
 
 
 
