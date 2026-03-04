@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on <b>Personal & Secret Projects</b>
+ 🔭 I’m currently focusing on growing my skills in Front-End Development</b>
  
  🌱 I’m currently learning <b>React & UI/UX Design</b>
 
