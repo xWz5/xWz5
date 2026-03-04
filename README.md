@@ -36,12 +36,12 @@
 <h2 align="center">My Skills</h2>
 <br/>
 
-<h3>Front-end</h3>
+<h3 align="center">Front-end</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma" />
 </div>
 
-<hr/>
+<br/>
 
 <h3 align="center">Back-end</h3>
 
@@ -50,8 +50,6 @@
 </div>
 
 <br/>
- <hr/>
-
 
 
 
