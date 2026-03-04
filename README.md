@@ -33,14 +33,17 @@
  <br/>
  <hr/>
 
-<h3 align="center">My front-end Skills</h3>
+<h2 align="center">My Skills</h2>
 <br/>
 
+<h3>Front-end</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma" />
 </div>
 
-<h3 align="center">My back-end Skills</h3>
+<hr/>
+
+<h3 align="center">Back-end</h3>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,mysql,springboot" /><br>
@@ -51,26 +54,4 @@
 
 
 
-<!--
-**xWz5/xWz5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
-
-
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
